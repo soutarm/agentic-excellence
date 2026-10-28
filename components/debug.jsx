@@ -4,6 +4,7 @@ const Debug = () => {
   const [count, setCount] = useState(0);
 
   useEffect(() => {
+    // set the count to 0 on load
     setCount(0);
   }, [count]);
 

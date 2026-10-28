@@ -14,7 +14,7 @@ All the files for the tasks are in the `components/` folder.
 
 ---
 
-## Task 1: Fix the bug (about 4 minutes)
+## Task 1: Fix the bug
 
 A bug report has come in:
 
@@ -24,6 +24,6 @@ The counter is in `components/debug.jsx`. Find the cause and fix it, then explai
 
 ---
 
-## Task 2: Prompt Engineering: Don't Say the Same Thing As Me
+## Task 2: Prompt Engineering: "Don't Say the Same Thing As Me" game
 
-Use your AI tools to create the game which the interviewers will describe the rules of the game.
+Use your AI tools to create the game which the interviewers will describe.
