@@ -1,11 +1,14 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
-export default function Debug() {
-  let count = 0;
+const Debug = () => {
+  const [count, setCount] = useState(0);
+
+  useEffect(() => {
+    setCount(0);
+  }, [count]);
 
   const increment = () => {
-    count = count + 1;
-    console.log('count is now', count);
+    setCount(count + 1);
   };
 
   return (
@@ -17,4 +20,6 @@ export default function Debug() {
       </button>
     </div>
   );
-}
+};
+
+export default Debug;

@@ -24,28 +24,6 @@ The counter is in `components/debug.jsx`. Find the cause and fix it, then explai
 
 ---
 
-## Task 2: Review AI-generated code (about 6 minutes)
+## Task 2: Prompt Engineering: Don't Say the Same Thing As Me
 
-An AI agent was asked to build a product list screen with an "add to cart" action. It produced `components/product-list.tsx`.
-
-Review the file as if it was a pull request. Talk through:
-
-- What you find.
-- How serious each issue is.
-- How you would fix it.
-
-You do not need to rewrite the whole file. Focus on what you would raise in the review and what you would want changed before merging.
-
----
-
-## Task 3: Build a To-Do list (about 10 minutes)
-
-In `components/create.jsx`, build a simple To-Do list with these requirements:
-
-- **Input field:** the user can type a task.
-- **Add button:** clicking "Add" puts the task on the list shown on screen.
-- **Task list:** the tasks are shown below the input field.
-- **Delete button:** each task has a "Delete" button that removes it from the list.
-- **Complete and incomplete:** clicking a task toggles it between complete and incomplete.
-
-Keep it simple. A working, readable solution is better than a feature-rich one.
+Use your AI tools to create the game which the interviewers will describe the rules of the game.
