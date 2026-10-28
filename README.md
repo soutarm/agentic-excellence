@@ -2,7 +2,7 @@
 
 ## Code review exercise
 
-An AI agent was asked to build a product list screen with an "add to cart" action. It produced `review/ProductList.tsx`.
+An AI agent was asked to build a product list screen with an "add to cart" action. It produced `review/product-list.tsx`.
 
 The team's conventions are in `AGENTS.md`.
 
